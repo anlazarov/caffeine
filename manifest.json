@@ -1,6 +1,6 @@
 {
 	"name": "Caffeine",
-	"version": "2",
+	"version": "2.1",
 	"manifest_version": 2,
 		
     "description": "Gives your ChromeBook the juice to stay awake!",
@@ -18,7 +18,7 @@
 	
 	"offline_enabled": true,
 	
-	"permissions": ["experimental", "storage", "notifications"],
+	"permissions": ["power", "storage", "notifications"],
 	
     "web_accessible_resources": ["caffeineEnabled.png"]
 }
